@@ -281,12 +281,4 @@ footer {
 .social-icons a:hover {
     color: #D11EE4;
 }
-@media (max-width: 800px) {
-    .steps, .plans, .features ul {
-        flex-direction: column;
-        align-items: center;
-    }
-    nav ul {
-        gap: 1rem;
-    }
-}
+
